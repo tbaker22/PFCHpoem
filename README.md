@@ -1,2 +1,2 @@
 # PFCHpoem
-The code represents the work I did for the final project for INFO 664 Programming for Cultural Heritage at Pratt Institute.
+The code in this repository represents the work I did for the final project for INFO 664 Programming for Cultural Heritage with Matt Miller at Pratt Institute during the spring semester of 2020. For this project, I found a [txt. file](https://www.kaggle.com/tgdivy/poetry-foundation-poems/discussion/114605) that had scraped all of the poems from the Poetry Foundation site. With this txt. file, I wanted to be able to pull random lines from the file to create new collage poems. Please download this code and make your own non-sensical, although sometimes very-sensical-on-the-nose poem!
